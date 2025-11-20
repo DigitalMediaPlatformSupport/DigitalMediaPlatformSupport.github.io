@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://DigitalMediaPlatformSupport.github.io/</loc>
+    <lastmod>2025-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://DigitalMediaPlatformSupport.github.io/streaming-setup-issues/</loc>
+    <lastmod>2025-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://DigitalMediaPlatformSupport.github.io/app-installation-fixes/</loc>
+    <lastmod>2025-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://DigitalMediaPlatformSupport.github.io/network-diagnostic-guide/</loc>
+    <lastmod>2025-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://DigitalMediaPlatformSupport.github.io/general-streaming-support/</loc>
+    <lastmod>2025-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>
