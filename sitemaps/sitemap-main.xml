@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- MAIN GITHUB PAGES -->
+  <url>
+    <loc>https://digitalmediaplatformsupport.github.io/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://digitalmediaplatformsupport.github.io/streaming-setup-issues/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://digitalmediaplatformsupport.github.io/app-installation-fixes/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://digitalmediaplatformsupport.github.io/network-diagnostic-guide/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://digitalmediaplatformsupport.github.io/general-streaming-support/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+
+  <!-- BASE VERSION PDFS -->
+  <url><loc>https://www.yumpu.com/en/document/view/70859999/peacock-tv-app-installation-support-manual-app-2025</loc></url>
+  <url><loc>https://archive.org/details/peacock-tv-app-installation-support-manual-app-2025/page/n1/mode/2up</loc></url>
+  <url><loc>https://www.scribd.com/document/950741308/Peacock-TV-App-Installation-Support-Manual-APP-2025</loc></url>
+  <url><loc>https://pdfhost.io/v/DyXdEZSdhN_Peacock-TV-App-Installation-Support-Manual-APP-2025</loc></url>
+  <url><loc>https://manuals.plus/upload/shared/04effbe843f4c48bcf639e57d2a61b24f9007bd7d6cc47c588a94cfa2d5d6c80</loc></url>
+
+
+  <!-- V1 PDFS -->
+  <url><loc>https://manuals.plus/upload/shared/662f8939b111080aa56e1d8fae9dd43c50fdd45fd0acff78c8a4fc86203de357</loc></url>
+  <url><loc>https://www.scribd.com/document/950797252/Peacock-TV-Streaming-App-Installation-Guide-2025-Edition-V1-FINAL</loc></url>
+  <url><loc>https://www.yumpu.com/en/document/view/70860651/peacock-tv-streaming-app-installation-guide-2025-edition-v1-final</loc></url>
+  <url><loc>https://pdfhost.io/v/avMXuJdpbd_Peacock-TV-Streaming-App-Installation-Guide-2025-Edition-V1-FINAL</loc></url>
+  <url><loc>https://archive.org/details/peacock-tv-streaming-app-installation-guide-2025-edition-v-1-final</loc></url>
+
+
+  <!-- V2 PDFS -->
+  <url><loc>https://manuals.plus/upload/shared/ec0441412273abc4c093b01a344ae1e08363605c023a3d0205c98c2eaca752e7</loc></url>
+  <url><loc>https://www.scribd.com/document/951004087/Peacock-TV-Installation-Troubleshooting-Guide-APP-2025-V2-Enhanced-Configuration-Edition</loc></url>
+  <url><loc>https://www.yumpu.com/en/document/view/70860996/peacock-tv-installation-troubleshooting-manual-app-2025-v2-enhanced-configuration-guide</loc></url>
+  <url><loc>https://archive.org/details/peacock-tv-installation-troubleshooting-contact-point-manual-app-2025-v-2</loc></url>
+  <url><loc>https://pdfhost.io/v/MQQPqMFPka_Peacock-TV-Installation-Troubleshooting-ContactPoint-Manual-APP-2025-V2</loc></url>
+
+
+  <!-- V3 PDFS (academia removed) -->
+  <url><loc>https://manuals.plus/upload/shared/2ba06de72834ceea74294a5e011e3c180c4e08b065b8a4bfe8d04a3200bdd245</loc></url>
+  <url><loc>https://www.scribd.com/document/951258167/Peacock-TV-Installation-Troubleshooting-Guide-APP-2025-V3-Diagnostic-Optimization-Edition</loc></url>
+  <url><loc>https://pdfhost.io/v/HZERNYXuFv_Peacock-TV-Installation-Troubleshooting-Manual-APP-2025-V3-Diagnostic-Optimization-Edition</loc></url>
+  <url><loc>https://archive.org/details/peacock-tv-installation-troubleshooting-manual-app-2025-v-3-diagnostic-optimization-edition</loc></url>
+
+
+  <!-- V4 PDFS (PDFHost edit link removed) -->
+  <url><loc>https://manuals.plus/upload/shared/222b184424238f621f5b81d6b6eb21b3b51ff47593ab5eaf45cfdcd856a2dd18</loc></url>
+  <url><loc>https://www.scribd.com/document/951879655/Peacock-TV-Installation-Troubleshooting-Guide-APP-2025-V4-Structured-Integration-Edition</loc></url>
+  <url><loc>https://archive.org/details/streaming-application-setup-diagnostic-notes-version-4-2025-release</loc></url>
+
+
+  <!-- V5 PDFS -->
+  <url><loc>https://manuals.plus/upload/shared/e24fb398b2a3df67a62a0b4094295d40d3c4d5bd965e65bad9010d5bed3efeb5</loc></url>
+  <url><loc>https://pdfhost.io/v/LjPFmMFafC_Peacock_TV_Installation___Troubleshooting_Manual_–_V5_Comprehensive_Service_Assistance_Edition</loc></url>
+  <url><loc>https://www.scribd.com/document/952281513/Peacock-TV-Installation-Troubleshooting-Guide-APP-2025-V5-Comprehensive-Service-Assistance-Edition</loc></url>
+  <url><loc>https://archive.org/details/peacock-tv-installation-troubleshooting-manual-app-2025-v-5-comprehensive-service-assistance-edition</loc></url>
+
+</urlset>
